@@ -1,3 +1,12 @@
+Screenshots
+
+
+![ScreenShot](https://github.com/Maxwell20/LiftTrack-Android-Application/blob/master/LiftrackHomeScreen.PNG)
+![ScreenShot](https://github.com/Maxwell20/LiftTrack-Android-Application/blob/master/BMIcalc.PNG)
+![ScreenShot](https://github.com/Maxwell20/LiftTrack-Android-Application/blob/master/BMIcalc2.PNG)
+
+
+
   LiftTrack is a mobile application focused on tracking progess in the gym and making useful calcualations.
 I started this project for the purpose of learning Xamarin cross platform mobile development.
 Enjoy!
